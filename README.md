@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a third year student in KPI. :wink:
+
+:orange_book: Learning: Go, PHP, Java
+
+:tent: Hobby: gaming :video_game:, travelling :city_sunset:, coffee drinking :coffee:
+
+
 <!--
 **nikitayunak/nikitayunak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
