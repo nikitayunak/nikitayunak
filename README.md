@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a third year student in KPI. :wink:
+I'm a former student of KPI (graduated in 2024). :wink:
 
-:orange_book: Learning: Go, PHP, Java
+:orange_book: Learning: Python, Django
 
 :tent: Hobby: gaming :video_game:, travelling :city_sunset:, coffee drinking :coffee:
 
